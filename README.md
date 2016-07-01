@@ -1,4 +1,4 @@
-Boilerplate for react apps using webpack/react-hot-loader
+Boilerplate react - webpack/react-hot-loader
 =================================================================
 
 My own boilerplate based on wesbos [starter files](https://github.com/wesbos/Learn-Redux-Starter-Files/tree/master/learn-redux) and gaearons [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate/blob/master/README.md)
